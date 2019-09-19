@@ -14,4 +14,4 @@ server.use(cors());
 server.use(express.json());
 server.use(routes);
 
-server.listen(3333);
+server.listen(process.event.PORT || 3333);
