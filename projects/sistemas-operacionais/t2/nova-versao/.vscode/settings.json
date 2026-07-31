@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "limits": "c",
+        "typeinfo": "c",
+        "unistd.h": "c",
+        "trabalho2.h": "c"
+    }
+}
