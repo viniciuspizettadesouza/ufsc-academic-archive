@@ -27,9 +27,8 @@ commits, authors, dates, messages, and commit hashes remain reachable from this
 repository's history. The former compiler repository became this archive and
 its files were moved into the structure above without changing their contents.
 
-The Arduino project's former `dev` branch is preserved as the
-`archive/arduino/dev` tag. Automated Dependabot branches were intentionally not
-retained.
+Only the projects' default branches were imported. Automated Dependabot
+branches and the Arduino development prototype were intentionally not retained.
 
 | Former repository | Branch | Imported head | Destination |
 | --- | --- | --- | --- |
